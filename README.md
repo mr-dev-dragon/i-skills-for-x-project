@@ -7,4 +7,4 @@
 - [ ] [V.1.4](https://ahmed-aoulad-amar.github.io/watch-your-skills-gowning-up/) add a mysqli php server and link it to the website
 - [ ] [V.1.5 ](https://ahmed-aoulad-amar.github.io/watch-your-skills-gowning-up/) add remove  btn to the website
 - [ ] [V.1.6](https://ahmed-aoulad-amar.github.io/watch-your-skills-gowning-up/) stor the data in databise
-- [ ] [V.2....](https://ahmed-aoulad-amar.github.io/watch-your-skills-gowning-up/) .... =>{ - }
+- [ ] [V.2....](https://ahmed-aoulad-amar.github.io/watch-your-skills-gowning-up/) ..
