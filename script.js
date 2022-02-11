@@ -2,13 +2,10 @@ var btn = document.getElementById("btn");
 var nameq = document.getElementById("name");
 var npc = document.getElementById("npc");
 var addw = document.getElementById("addw");
-
 function rest() {
   npc.value = "";
   nameq.value = "";
 }
-
-
 function add() {
   // e.preventDefault()
   let c = npc.value * 629 / 100;
@@ -30,13 +27,7 @@ function add() {
                       d="M200,100 C200,44.771525 155.228475,0 100,0 C44.771525,0 0,44.771525 0,100 C0,155.228475 44.771525,200 100,200 C155.228475,200 200,155.228475 200,100 Z"
                       stroke-dashoffset="${c}"></path>
                   </svg>
-                </li>
+              </li>
   `;
  rest(); 
 };
-
-
-
-
-
-
